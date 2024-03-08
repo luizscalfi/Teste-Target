@@ -1,0 +1,12 @@
+##Versão em Python do código que foi disponibilizado.
+## A Resposta, é 91. Ao final do processamento o código irá mostrar o numeral 91.
+
+indice = 13
+soma = 0
+k = 0
+
+while k < indice:
+    k = k + 1
+    soma = soma + k
+
+print(soma)
